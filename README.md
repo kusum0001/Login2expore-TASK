@@ -17,8 +17,14 @@ Registration page to register the details of User using JsonPowerDB
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/dashboard.png)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Visualization](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/data.png)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![SignUpPage](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/signupss.png)
+
+![PostRequest](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/postrequest.png)
+
+![DataInsertion](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/datainsertion.png)
+
+![Validation](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/validation.png)
