@@ -16,15 +16,20 @@ Registration page to register the details of User using JsonPowerDB
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
-
+# Dashboard
 ![Dashboard](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/dashboard.png)
 
+# Visualization
 ![Visualization](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/data.png)
 
+# SignUpPage
 ![SignUpPage](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/signupss.png)
 
+# PostRequest
 ![PostRequest](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/postrequest.png)
 
+# DataInsertion
 ![DataInsertion](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/datainsertion.png)
 
+# Validation
 ![Validation](https://github.com/kusum0001/Login2expore-TASK/blob/main/assests/validation.png)
